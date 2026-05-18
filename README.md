@@ -49,8 +49,12 @@ ML Model                            	Scikit-learn
 Deployment                          	Streamlit
 Model Saving                        	Joblib
 
+
 **Run Application**
+
 streamlit run app.py
+
+
 
 **  Application Preview****
 
